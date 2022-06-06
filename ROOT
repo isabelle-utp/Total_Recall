@@ -1,3 +1,3 @@
 session "Total_Recall" = "HOL" +
-  options [document = none]
+  options [document = false]
   theories Total_Recall
